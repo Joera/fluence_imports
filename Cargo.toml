@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "src/services/my_service/modules/my_service",
+  "src/modules/ctrlr_1",
+  "src/modules/ctrlr_2",
+  "src/modules/shared_factory"
+]
